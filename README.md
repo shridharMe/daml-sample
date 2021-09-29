@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # daml-sample
 DAML blockchain sample code
-=======
+ 
 [![Daml logo](https://daml.com/static/images/logo.png)](https://www.daml.com)
 
 [![Download](https://img.shields.io/github/release/digital-asset/daml.svg?label=Download)](https://docs.daml.com/getting-started/installation.html)
@@ -123,4 +123,3 @@ TBD
 ## How to get help
 
 TBD
->>>>>>> 57a7c2b (added sample project)
